@@ -1,0 +1,3 @@
+[34mWed Dec 30 18:35:12 2015 -0500[m [33mc2481f6[32m (HEAD -> master)[m [34mAdd basic Todo list functionality with 3 extra features - Created User class - Assigned each created list with a user - Added timestamps to items - Optinally save ToDo list to a text file [35m [Karim Tarek][m
+[34mWed Dec 30 18:30:22 2015 -0500[m [33m23df2ac[32m[m [34mAdd new features text file [35m [Karim Tarek][m
+[34mTue Dec 29 00:00:50 2015 -0500[m [33ma2aefec[32m[m [34mInitial Commit [35m [Karim Tarek][m
